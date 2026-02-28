@@ -8,7 +8,7 @@
 ## 2. Configuration
 - **Set global username**:
   
-  `git config --global user.name "himansu2045"`
+  `git config --global user.name "himansu2046"`
 
 - **Set global email**:
   
